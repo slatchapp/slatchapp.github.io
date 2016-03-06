@@ -1,0 +1,5 @@
+#!/bin/bash
+cd slatchapp.github.io
+add --all
+commit -m "Initial commit"
+push -u origin master

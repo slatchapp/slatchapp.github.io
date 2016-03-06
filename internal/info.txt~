@@ -1,0 +1,5 @@
+#!/bin/bash
+cd username.github.io
+add --all
+commit -m "Initial commit"
+push -u origin master
