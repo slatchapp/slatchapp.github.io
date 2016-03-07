@@ -1,0 +1,5 @@
+#Index of all the used colors for certain things
+
+March 6, 2016
+- Canvas Borders: BFBFBF
+- App Borders: EDDBFF
