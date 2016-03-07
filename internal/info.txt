@@ -1,0 +1,2 @@
+This is important information that pertains to the app
+Things that someone may need to know in the future during the programming of this app
