@@ -4,7 +4,7 @@ var mainbounds = function() {
   ctx.fillStyle = '#FFFFFF';
   ctx.fillRect(25, 45, 550, 430);
   ctx.font = "30px Sans Serif";
-  ctx.strokeText("Slatch",45,30);
+  ctx.fillText("Slatch",25,30);
 }
 
 var initialrun = function() {
