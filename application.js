@@ -3,6 +3,7 @@ var mainbounds = function() {
   ctx.fillRect(0,0,600,500);
   ctx.fillStyle = '#FFFFFF';
   ctx.fillRect(25, 45, 550, 430);
+  ctx.fillStyle = '#000000';
   ctx.font = "30px Sans Serif";
   ctx.fillText("Slatch",25,30);
 }
