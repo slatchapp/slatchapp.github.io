@@ -4,5 +4,5 @@ var initialrun = function() {
   ctx.fillStyle = "#EDDBFF";
   ctx.fillRect(0,0,600,100);
   ctx.font = "30px Sans Serif"
-  ctx.strokeText("Slatch",50,50)
+  ctx.strokeText("Slatch",10,25)
 }
